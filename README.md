@@ -15,7 +15,7 @@ The existing infrastructure lacked scalability and was prone to performance bott
 - *Monitoring:* AWS CloudWatch for real-time monitoring and alerts
 
 ## Architecture Diagram
-![Architecture Diagram](CloudArchitecture.png)
+![Architecture Diagram](Architecture.png)
 
 ## Key Deliverables
 - Infrastructure analysis and migration roadmap
